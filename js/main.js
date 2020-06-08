@@ -1,12 +1,3 @@
-/************************************
- * WEB422-ASSIGNMENT2
- * I declare that assignment is my own work in accordance with Seneca Academic
- * POlicy. NO part of this assignment has been copied manually or electrically
- * from other source(including websites) or distributed to other students
- * 
- * Name: Jianwen Yang Students ID: 153169180 Date: June 8 2020
- ***********************************/
-
 
 let saleData = new Array();
 let page = 1;
